@@ -1,0 +1,2 @@
+include ':app', ':mediaplayer'
+rootProject.name='MediaPlayer'
